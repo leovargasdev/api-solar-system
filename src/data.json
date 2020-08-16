@@ -1,0 +1,184 @@
+{
+  "planets": [
+    {
+      "id": "0",
+      "name": "Sol",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "sol", "estrela central"],
+      "features": {
+        "orbitalPeriod": { "days": 1, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "1",
+      "name": "Mercúrio",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "mercúrio", "menor planeta"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "2",
+      "name": "Vênus",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "vênus"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "3",
+      "name": "Terra",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "terra"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "4",
+      "name": "Marte",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "marte"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "5",
+      "name": "Júpiter",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "júpiter", "maior planeta"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "6",
+      "name": "Saturno",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "saturno"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "7",
+      "name": "Urano",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "urano"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "8",
+      "name": "Netuno",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "netuno"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    },
+    {
+      "id": "9",
+      "name": "Plutão",
+      "resume": "",
+      "introduction": "",
+      "searchTags": ["planeta", "plutão"],
+      "features": {
+        "orbitalPeriod": { "days": 0, "years": 0 },
+        "orbitalSpeed": "",
+        "rotationDuration": "",
+        "radius": "",
+        "Diameter": "",
+        "sunDistance": "",
+        "satellites": 0,
+        "temperature": ""
+      },
+      "geography": ""
+    }
+  ]
+}
