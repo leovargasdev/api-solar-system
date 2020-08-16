@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "babel src --extensions \".ts\" --out-dir dist",
+    "build": "babel src --extensions \".ts\" --out-dir dist --copy-files",
     "start": "ts-node-dev --ignore-watch node_modules src/server.ts"
   },
   "dependencies": {
@@ -13,6 +13,11 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
     "@types/cors": "^2.8.7",
     "@types/express": "^4.17.7",
     "@typescript-eslint/eslint-plugin": "^3.9.0",
