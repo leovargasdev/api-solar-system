@@ -23,7 +23,7 @@
       "name": "Mercúrio",
       "resume": "",
       "introduction": "",
-      "searchTags": ["planeta", "mercúrio", "menor planeta"],
+      "searchTags": ["planeta", "mercurio", "menor planeta"],
       "features": {
         "orbitalPeriod": { "days": 0, "years": 0 },
         "orbitalSpeed": "",
@@ -41,7 +41,7 @@
       "name": "Vênus",
       "resume": "",
       "introduction": "",
-      "searchTags": ["planeta", "vênus"],
+      "searchTags": ["planeta", "venus"],
       "features": {
         "orbitalPeriod": { "days": 0, "years": 0 },
         "orbitalSpeed": "",
@@ -95,7 +95,7 @@
       "name": "Júpiter",
       "resume": "",
       "introduction": "",
-      "searchTags": ["planeta", "júpiter", "maior planeta"],
+      "searchTags": ["planeta", "jupiter", "maior planeta"],
       "features": {
         "orbitalPeriod": { "days": 0, "years": 0 },
         "orbitalSpeed": "",
@@ -167,7 +167,7 @@
       "name": "Plutão",
       "resume": "",
       "introduction": "",
-      "searchTags": ["planeta", "plutão"],
+      "searchTags": ["planeta", "plutao"],
       "features": {
         "orbitalPeriod": { "days": 0, "years": 0 },
         "orbitalSpeed": "",
@@ -180,5 +180,8 @@
       },
       "geography": ""
     }
-  ]
+  ],
+  "asteroids": [],
+  "galaxies": [],
+  "stars": []
 }
