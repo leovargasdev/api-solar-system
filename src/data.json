@@ -7,14 +7,14 @@
       "introduction": "",
       "searchTags": ["planeta", "sol", "estrela central"],
       "features": {
-        "orbitalPeriod": { "days": 1, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["0 dias", "0 anos"],
+        "orbitalSpeed": "0 km/h",
+        "rotationDuration": "25dias 9h07min",
+        "radius": "696.340 km",
+        "Diameter": "1.392.700 km",
+        "sunDistance": "0 km",
+        "satellites": { "number": 0, "names": ["225088 Gonggong", "3122 Florence"] },
+        "temperature": "5.505°C"
       },
       "geography": ""
     },
@@ -25,14 +25,14 @@
       "introduction": "",
       "searchTags": ["planeta", "mercurio", "menor planeta"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["87,96 dias", "0,24 anos"],
+        "orbitalSpeed": "48,92 km/s",
+        "rotationDuration": "58dias 15h30m",
+        "radius": "2.439 km",
+        "Diameter": "4.879 km",
+        "sunDistance": "57.910.000 km",
+        "satellites": { "number": 0, "names": [""] },
+        "temperature": "167°C"
       },
       "geography": ""
     },
@@ -43,14 +43,14 @@
       "introduction": "",
       "searchTags": ["planeta", "venus"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["224,70 dias", "0,61 anos"],
+        "orbitalSpeed": "35,02 km/s",
+        "rotationDuration": "243dias 18h00min",
+        "radius": "6.051 km",
+        "Diameter": "12.104 km",
+        "sunDistance": "108.200.000 km",
+        "satellites": { "number": 0, "names": [""] },
+        "temperature": "461°C"
       },
       "geography": ""
     },
@@ -61,32 +61,32 @@
       "introduction": "",
       "searchTags": ["planeta", "terra"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["365,26 dias", "1 ano"],
+        "orbitalSpeed": "29,78 km/s",
+        "rotationDuration": "23h56min",
+        "radius": "6.371 km",
+        "Diameter": "12.742 km",
+        "sunDistance": "149.600.000 km",
+        "satellites": { "number": 1, "names": ["Lua"] },
+        "temperature": "15°C"
       },
       "geography": ""
     },
     {
       "id": "4",
       "name": "Marte",
-      "resume": "",
+      "resume": "Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o 'Planeta Vermelho', porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.",
       "introduction": "",
       "searchTags": ["planeta", "marte"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["686,97 dias", "1,88 anos"],
+        "orbitalSpeed": "24,07 km/s",
+        "rotationDuration": "24h37min",
+        "radius": "3.397 km",
+        "Diameter": "6.779 km",
+        "sunDistance": "227.940.000 km",
+        "satellites": { "number": 2, "names": ["Fobos", "Deimos"] },
+        "temperature": "-63°C"
       },
       "geography": ""
     },
@@ -97,14 +97,14 @@
       "introduction": "",
       "searchTags": ["planeta", "jupiter", "maior planeta"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["4.331,57 dias", "11,86 anos"],
+        "orbitalSpeed": "13,05 km/s",
+        "rotationDuration": "9h50min",
+        "radius": "69.911 km",
+        "Diameter": "139.820 km",
+        "sunDistance": "778.500.000 km",
+        "satellites": { "number": 79, "names": ["Io", "Europa", "Ganímedes", "Calisto"] },
+        "temperature": "-108°C"
       },
       "geography": ""
     },
@@ -113,16 +113,16 @@
       "name": "Saturno",
       "resume": "",
       "introduction": "",
-      "searchTags": ["planeta", "saturno"],
+      "searchTags": ["planeta", "saturno", "mais satelites naturais"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["10.757,74 dias", "29,45 anos"],
+        "orbitalSpeed": "9,64 km/s",
+        "rotationDuration": "10h14min",
+        "radius": "60.268 km",
+        "Diameter": "116.464 km",
+        "sunDistance": "1.429.400.000 km",
+        "satellites": { "number": 82, "names": ["Mimas", "Encélado", "Tétis", "Dione", "Reia", "Titã", "Hiperião", "Jápeto", "Febe"] },
+        "temperature": "-139°C"
       },
       "geography": ""
     },
@@ -133,14 +133,14 @@
       "introduction": "",
       "searchTags": ["planeta", "urano"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["30.799,10 dias", "84,32 anos"],
+        "orbitalSpeed": "6,81 km/s",
+        "rotationDuration": "10h49min",
+        "radius": "25.362 km",
+        "Diameter": "50.724 km",
+        "sunDistance": "2.870.000.000 km",
+        "satellites": { "number": 27, "names": ["Miranda", "Ariel", "Umbriel", "Titânia", "Oberon"] },
+        "temperature": "-200°C"
       },
       "geography": ""
     },
@@ -151,14 +151,14 @@
       "introduction": "",
       "searchTags": ["planeta", "netuno"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
-        "temperature": ""
+        "orbitalPeriod": ["60.224,90 dias", "164,88 anos"],
+        "orbitalSpeed": "5,43 km/s",
+        "rotationDuration": "15h40min",
+        "radius": "24.622 km",
+        "Diameter": "49.244 km",
+        "sunDistance": "4.504.300.000 km",
+        "satellites": { "number": 14, "names": ["Náiade", "Talassa", "Despina", "Galateia", "Larissa", "Hipocampo", "Proteu"] },
+        "temperature": "-218°C"
       },
       "geography": ""
     },
@@ -169,13 +169,13 @@
       "introduction": "",
       "searchTags": ["planeta", "plutao"],
       "features": {
-        "orbitalPeriod": { "days": 0, "years": 0 },
-        "orbitalSpeed": "",
-        "rotationDuration": "",
-        "radius": "",
-        "Diameter": "",
-        "sunDistance": "",
-        "satellites": 0,
+        "orbitalPeriod": ["90.613,31 dias", " 248,09 anos"],
+        "orbitalSpeed": "4,66 km/s",
+        "rotationDuration": "6dias 9h17min",
+        "radius": "1.160 km",
+        "Diameter": "2.376 km",
+        "sunDistance": "5.913.520.000 km",
+        "satellites": { "number": 5, "names": ["Caronte", "Nix", "Hidra", "Cérbero", "Estige"] },
         "temperature": ""
       },
       "geography": ""
