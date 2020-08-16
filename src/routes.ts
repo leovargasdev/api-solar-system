@@ -4,6 +4,15 @@ import data from './data.json';
 
 const routes = Router();
 
+routes.get('/', async (request: Request, response: Response): Promise<Response> => {
+    return response.json({
+      "/planets": "Listando todos os planetas",
+      "/planet/:id": "Buscando um planeta atráves do seu id",
+      "/find/:string": "É feito uma comparação em cada tag de cada item, testando se esta string consta no array de tags, retornando os objetos que obtiveram sucesso."
+    });
+  },
+);
+
 routes.get('/planets', async (request: Request, response: Response): Promise<Response> => {
     return response.json(data);
   },
