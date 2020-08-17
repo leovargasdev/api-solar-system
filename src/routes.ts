@@ -14,7 +14,7 @@ routes.get('/', async (request: Request, response: Response): Promise<Response> 
 );
 
 routes.get('/planets', async (request: Request, response: Response): Promise<Response> => {
-    return response.json(data);
+    return response.json(data.planets);
   },
 );
 
