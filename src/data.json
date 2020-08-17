@@ -5,6 +5,7 @@
       "name": "Sol",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/sun.svg",
       "searchTags": ["planeta", "sol", "estrela central"],
       "features": {
         "orbitalPeriod": ["0 dias", "0 anos"],
@@ -23,6 +24,7 @@
       "name": "Mercúrio",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/mercury.svg",
       "searchTags": ["planeta", "mercurio", "menor planeta"],
       "features": {
         "orbitalPeriod": ["87,96 dias", "0,24 anos"],
@@ -41,6 +43,7 @@
       "name": "Vênus",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/venus.svg",
       "searchTags": ["planeta", "venus"],
       "features": {
         "orbitalPeriod": ["224,70 dias", "0,61 anos"],
@@ -59,6 +62,7 @@
       "name": "Terra",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/earth.svg",
       "searchTags": ["planeta", "terra"],
       "features": {
         "orbitalPeriod": ["365,26 dias", "1 ano"],
@@ -77,6 +81,7 @@
       "name": "Marte",
       "resume": "Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o 'Planeta Vermelho', porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/mars.svg",
       "searchTags": ["planeta", "marte"],
       "features": {
         "orbitalPeriod": ["686,97 dias", "1,88 anos"],
@@ -95,6 +100,7 @@
       "name": "Júpiter",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/jupiter.svg",
       "searchTags": ["planeta", "jupiter", "maior planeta"],
       "features": {
         "orbitalPeriod": ["4.331,57 dias", "11,86 anos"],
@@ -113,6 +119,7 @@
       "name": "Saturno",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/saturn.svg",
       "searchTags": ["planeta", "saturno", "mais satelites naturais"],
       "features": {
         "orbitalPeriod": ["10.757,74 dias", "29,45 anos"],
@@ -131,6 +138,7 @@
       "name": "Urano",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/uranus.svg",
       "searchTags": ["planeta", "urano"],
       "features": {
         "orbitalPeriod": ["30.799,10 dias", "84,32 anos"],
@@ -149,6 +157,7 @@
       "name": "Netuno",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/neptune.svg",
       "searchTags": ["planeta", "netuno"],
       "features": {
         "orbitalPeriod": ["60.224,90 dias", "164,88 anos"],
@@ -167,6 +176,7 @@
       "name": "Plutão",
       "resume": "",
       "introduction": "",
+      "image": "https://api-solar-system.herokuapp.com/files/planets/pluto.svg",
       "searchTags": ["planeta", "plutao"],
       "features": {
         "orbitalPeriod": ["90.613,31 dias", " 248,09 anos"],

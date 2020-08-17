@@ -29,6 +29,7 @@ Repositório contendo API REST com os dados do sistema solar.
 | name                      | Nome do Planeta  |
 | resume                    | Breve resumo do planeta |
 | introduction              | Principais características do planeta, suas curiosidades, fatos históricos |
+| image                     | Retorna a rota contendo um `.svg` do planeta |
 | searchTags                | Array de strings usado nas buscas. |
 | features.orbitalPeriod    | O período orbital é o tempo que leva um planeta a fazer uma órbita completa em torno do sol. Esse campo é separado em dois value: [Número de dias, Número de anos].  |
 | features.orbitalSpeed     | É velocidade orbital média de um planeta, essa medida está na escala km/s. |
