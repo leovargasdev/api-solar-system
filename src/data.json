@@ -60,9 +60,11 @@
     {
       "id": "3",
       "name": "Terra",
-      "resume": "",
+      "type": "Terrestre",
+      "resume": "Nosso planeta natal é o terceiro planeta a partir do Sol, e o único lugar que conhecemos até agora que é habitado por seres vivos. Embora a Terra seja apenas o quinto maior planeta do sistema solar, é o único mundo em nosso sistema solar com água líquida na superfície. Apenas um pouco maior do que a vizinha Vênus, a Terra é o maior dos quatro planetas mais próximos do Sol, todos feitos de rocha e metal. O nome Terra tem pelo menos 1.000 anos. Todos os planetas, exceto a Terra, receberam nomes de deuses e deusas gregos e romanos. No entanto, o nome Terra é uma palavra germânica, que significa simplesmente “o solo”.",
       "introduction": "",
       "image": "https://api-solar-system.herokuapp.com/files/planets/earth.svg",
+      "imageTwo": "../assets/planetsTwo/",
       "searchTags": ["planeta", "terra"],
       "features": {
         "orbitalPeriod": ["365,26 dias", "1 ano"],
@@ -72,7 +74,9 @@
         "Diameter": "12.742 km",
         "sunDistance": "149.600.000 km",
         "satellites": { "number": 1, "names": ["Lua"] },
-        "temperature": "15°C"
+        "temperature": "15°C",
+        "oneWayLightToTheSun": "8,36 min",
+        "gravity": "9.807 m/s"
       },
       "geography": ""
     },
