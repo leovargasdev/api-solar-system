@@ -6,8 +6,10 @@
       "type": "Estrela",
       "resume": "Nosso Sol é uma estrela de 4,5 bilhões de anos – uma bola quente e brilhante de hidrogênio e hélio no centro do nosso sistema solar. Sem sua energia, a vida como a conhecemos não poderia existir aqui em nosso planeta natal. O Sol é o maior objeto do nosso sistema solar. O volume do Sol precisaria de 1,3 milhão de Terras para preenchê-lo. Sua gravidade mantém o sistema solar unido, mantendo tudo, desde os maiores planetas até os menores pedaços de detritos em órbita ao seu redor. A parte mais quente do Sol é o seu núcleo, onde as temperaturas chegam 15 milhões de graus Celsius. A atividade do Sol, desde suas poderosas erupções até o fluxo constante de partículas carregadas que ele envia, influencia a natureza do espaço em todo o sistema solar.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/sun.svg",
-      "imageTwo": "./assets/planetsTwo/sun.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/sun.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/sun.png"
+      },
       "searchTags": ["planeta", "sol", "estrela central"],
       "features": {
         "orbitalPeriod": ["0 dias", "0 anos"],
@@ -29,8 +31,10 @@
       "type": "Terrestre",
       "resume": "O menor planeta do nosso sistema solar e mais próximo do Sol, Mercúrio é apenas um pouco maior que a Lua da Terra. Da superfície de Mercúrio, o Sol pareceria mais de três vezes maior do que quando visto da Terra, e a luz do sol seria sete vezes mais brilhante. Apesar de sua proximidade com o Sol, Mercúrio não é o planeta mais quente do nosso sistema solar – esse título pertence ao vizinho Vênus, graças à sua densa atmosfera. Por causa da órbita elíptica – em forma de ovo – de Mercúrio e da rotação lenta, o Sol parece nascer brevemente, se pôr e subir novamente de algumas partes da superfície do planeta. A mesma coisa acontece ao contrário ao pôr do sol.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/mercury.svg",
-      "imageTwo": "./assets/planetsTwo/mercury.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/mercury.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/mercury.png"
+      },
       "searchTags": ["planeta", "mercurio", "menor planeta"],
       "features": {
         "orbitalPeriod": ["87,96 dias", "0,24 anos"],
@@ -52,8 +56,10 @@
       "type": "Terrestre",
       "resume": "Vênus é o segundo planeta a partir do Sol e é o vizinho planetário mais próximo da Terra. Vênus tem uma atmosfera espessa e tóxica cheia de dióxido de carbono e está perpetuamente envolta em nuvens espessas e amareladas de ácido sulfúrico que retêm o calor, causando um efeito estufa descontrolado. É o planeta mais quente do nosso sistema solar, embora Mercúrio esteja mais próximo do Sol. Vênus gira em seu eixo para trás, em comparação com a maioria dos outros planetas do sistema solar. Isso significa que, em Vênus, o Sol nasce no oeste e se põe no leste.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/venus.svg",
-      "imageTwo": "./assets/planetsTwo/venus.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/venus.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/venus.png"
+      },
       "searchTags": ["planeta", "venus"],
       "features": {
         "orbitalPeriod": ["224,70 dias", "0,61 anos"],
@@ -63,7 +69,7 @@
         "Diameter": "12.104 km",
         "sunDistance": "108.200.000 km",
         "oneWayLightToTheSun": "5.97 min",
-        "satellites": { "number": 0, "names": [""] },
+        "satellites": { "number": 0, "names": [] },
         "temperature": "461°C",
         "gravity": "8.87 m/s²"
       },
@@ -75,8 +81,10 @@
       "type": "Terrestre",
       "resume": "Nosso planeta natal é o terceiro planeta a partir do Sol, e o único lugar que conhecemos até agora que é habitado por seres vivos. Embora a Terra seja apenas o quinto maior planeta do sistema solar, é o único mundo em nosso sistema solar com água líquida na superfície. Apenas um pouco maior do que a vizinha Vênus, a Terra é o maior dos quatro planetas mais próximos do Sol, todos feitos de rocha e metal. O nome Terra tem pelo menos 1.000 anos. Todos os planetas, exceto a Terra, receberam nomes de deuses e deusas gregos e romanos. No entanto, o nome Terra é uma palavra germânica, que significa simplesmente “o solo”.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/earth.svg",
-      "imageTwo": "./assets/planetsTwo/earth.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/earth.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/earth.png"
+      },
       "searchTags": ["planeta", "terra"],
       "features": {
         "orbitalPeriod": ["365,26 dias", "1 ano"],
@@ -98,8 +106,10 @@
       "type": "Terrestre",
       "resume": "Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o 'Planeta Vermelho', porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada – um mundo empoeirado, frio e desértico com uma atmosfera muito fina. Marte também é um planeta dinâmico com estações, calotas polares, cânions, vulcões extintos e evidências de que foi ainda mais ativo no passado.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/mars.svg",
-      "imageTwo": "./assets/planetsTwo/mars.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/mars.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/mars.png"
+      },
       "searchTags": ["planeta", "marte"],
       "features": {
         "orbitalPeriod": ["686,97 dias", "1,88 anos"],
@@ -121,8 +131,10 @@
       "type": "Gigante Gasoso",
       "resume": "Júpiter tem uma longa história de cientistas surpreendentes – desde 1610, quando Galileu Galilei encontrou as primeiras luas além da Terra. Essa descoberta mudou a maneira como vemos o universo. Quinto na linha do Sol, Júpiter é, de longe, o maior planeta do sistema solar – mais que o dobro da massa de todos os outros planetas juntos. As listras e redemoinhos familiares de Júpiter são, na verdade, nuvens frias e ventosas de amônia e água, flutuando em uma atmosfera de hidrogênio e hélio. A icônica Grande Mancha Vermelha de Júpiter é uma tempestade gigante, maior que a Terra, que dura centenas de anos.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/jupiter.svg",
-      "imageTwo": "./assets/planetsTwo/jupiter.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/jupiter.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/jupiter.png"
+      },
       "searchTags": ["planeta", "jupiter", "maior planeta"],
       "features": {
         "orbitalPeriod": ["4.331,57 dias", "11,86 anos"],
@@ -144,8 +156,10 @@
       "type": "Gigante Gasoso",
       "resume": "Saturno é o sexto planeta a partir do Sol e o segundo maior planeta do nosso sistema solar. Adornado com lindos anéis, Saturno é único entre os planetas. Não é o único planeta a ter anéis – feitos de pedaços de gelo e rocha – mas nenhum é tão espetacular ou tão complicado quanto o de Saturno. Como o gigante gasoso Júpiter, Saturno é uma bola enorme feita principalmente de hidrogênio e hélio.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/saturn.svg",
-      "imageTwo": "./assets/planetsTwo/saturn.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/saturn.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/saturn.png"
+      },
       "searchTags": ["planeta", "saturno", "mais satelites naturais"],
       "features": {
         "orbitalPeriod": ["10.757,74 dias", "29,45 anos"],
@@ -167,8 +181,10 @@
       "type": "Gigante de Gelo",
       "resume": "Urano é o sétimo planeta a partir do Sol e tem o terceiro maior diâmetro do nosso sistema solar. Foi o primeiro planeta encontrado com a ajuda de um telescópio, Urano foi descoberto em 1781 pelo astrônomo William Herschel, embora ele originalmente pensasse que era um cometa ou uma estrela. Dois anos depois, o objeto foi universalmente aceito como um novo planeta, em parte por causa das observações do astrônomo Johann Elert Bode.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/uranus.svg",
-      "imageTwo": "./assets/planetsTwo/uranus.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/uranus.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/uranus.png"
+      },
       "searchTags": ["planeta", "urano"],
       "features": {
         "orbitalPeriod": ["30.799,10 dias", "84,32 anos"],
@@ -190,8 +206,10 @@
       "type": "Gigante de Gelo",
       "resume": "Escuro, frio e açoitado por ventos supersônicos, o gigante de gelo Netuno é o oitavo e mais distante planeta do nosso sistema solar. Mais de 30 vezes mais distante do Sol que a Terra, Netuno é o único planeta em nosso sistema solar não visível a olho nu e o primeiro previsto pela matemática antes de sua descoberta. Em 2011, Netuno completou sua primeira órbita de 165 anos desde sua descoberta em 1846. A Voyager 2 da NASA é a única nave espacial que visitou Netuno de perto. Ele passou voando em 1989 ao sair do sistema solar.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/neptune.svg",
-      "imageTwo": "./assets/planetsTwo/neptune.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/neptune.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/neptune.png"
+      },
       "searchTags": ["planeta", "netuno"],
       "features": {
         "orbitalPeriod": ["60.224,90 dias", "164,88 anos"],
@@ -213,8 +231,10 @@
       "type": "Planeta Anão",
       "resume": "Em 2006, Plutão foi reclassificado como planeta anão. Basicamente, o principal parâmetro que levou a União Internacional da Astronomia (IAU) a remover Plutão da lista de planetas é o fato de ele não ser capaz de conduzir a sua própria órbita, ou seja, ele depende de outros corpos celestes para influenciar seu trajeto – neste caso, Netuno, de um lado; e diversos objetos congelados do Cinturão de Kuiper, do outro. Plutão – que é menor que a Lua da Terra – tem uma geleira em forma de coração que é do tamanho do Texas e Oklahoma. Este mundo fascinante tem céus azuis, luas giratórias, montanhas tão altas quanto as Montanhas Rochosas e neva – mas a neve é vermelha.",
       "introduction": "",
-      "image": "https://api-solar-system.herokuapp.com/files/planets/pluto.svg",
-      "imageTwo": "./assets/planetsTwo/plutop.png",
+      "images": {
+        "svg": "https://api-solar-system.up.railway.app/files/planets/pluto.svg",
+        "png": "https://api-solar-system.up.railway.app/files/planets/pluto.png"
+      },
       "searchTags": ["planeta", "plutao"],
       "features": {
         "orbitalPeriod": ["90.613,31 dias", " 248,09 anos"],
